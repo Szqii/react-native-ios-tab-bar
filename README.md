@@ -18,7 +18,7 @@ package, you can achieve a seamless native tab navigation experience in the iOS 
 - Using NPM
 
    ```shell
-  npm install react-native-ios-native-tab-bar
+  npm install react-native-ios-tab-bar
    ```
 
 ## Usage
