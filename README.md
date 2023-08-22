@@ -4,8 +4,8 @@
 ![example](https://github.com/Szqii/react-native-tab-bar/assets/56316962/420cbf14-f096-4fc0-9090-09adbf5bf209)
 
 
-This project provides a custom component for integrating the native tab bar of iOS into your React Native app. With this
-component, you can achieve a seamless native tab navigation experience in the iOS version of your application.
+This package provides a custom component for integrating the native tab bar of iOS into your React Native app. With this
+package, you can achieve a seamless native tab navigation experience in the iOS version of your application.
 
 ## Features
 

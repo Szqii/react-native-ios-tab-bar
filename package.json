@@ -1,7 +1,7 @@
 {
   "name": "react-native-ios-tab-bar",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Package provides a custom component for integrating the native tab bar of iOS into your React Native app",
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,8 +12,11 @@
   },
   "keywords": [
     "react-native",
-    "tab",
-    "bar"
+    "react-native-tab-bar",
+    "react-native-ios-tab-bar",
+    "ios",
+    "tab-bar",
+    "cupertino-tab-bar"
   ],
   "author": "Sezgi Altan",
   "license": "MIT",
