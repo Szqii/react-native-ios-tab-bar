@@ -1,7 +1,7 @@
 # React Native iOS Native Tab Bar
 
 
-![example](https://github.com/Szqii/react-native-tab-bar/assets/56316962/420cbf14-f096-4fc0-9090-09adbf5bf209)
+![example](./example.gif)
 
 
 This package provides a custom component for integrating the native tab bar of iOS into your React Native app. With this
