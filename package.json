@@ -1,6 +1,6 @@
 {
   "name": "react-native-ios-tab-bar",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Package provides a custom component for integrating the native tab bar of iOS into your React Native app",
   "main": "index.ts",
   "scripts": {

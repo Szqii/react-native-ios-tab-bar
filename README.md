@@ -2,6 +2,7 @@
 
 
 ![example](./example.gif)
+![example-2](./example-2.gif)
 
 
 This package provides a custom component for integrating the native tab bar of iOS into your React Native app. With this
